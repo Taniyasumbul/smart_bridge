@@ -1,4 +1,52 @@
-# visualization-tool-for-electric-vehicle-charge-and-range-analysis
-Dsahboard link-https://public.tableau.com/views/dashboardpdf1/ELECTRICVEHICLEANALYTICDASHBOARD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-story link-https://public.tableau.com/views/story_16815102272010/STORYOFELECTRICVEHICLES?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-video demonstration-https://drive.google.com/file/d/1BVJ9KWfF6xE7zCHEN2A92ZWFGsZOqNZa/view?usp=drivesdk
+# Visualization Tool for Electric Vehicle Charge and Range Analysis
+
+## 📌 Project Overview
+
+This project presents an interactive **data visualization tool** for analyzing electric vehicle (EV) charging behavior and driving range.
+Using **Tableau dashboards and stories**, the project provides insights into EV performance, charging patterns, and range analysis to help understand how electric vehicles operate in different conditions.
+
+The tool helps users explore EV data visually and identify patterns that can support decision-making for EV adoption and energy management.
+
+---
+
+## 🚀 Features
+
+* Interactive **Tableau Dashboard** for EV analytics
+* Visualization of **charging patterns and vehicle range**
+* **Story-based analysis** to explain insights step by step
+* Data-driven approach to understand **electric vehicle performance**
+* Simple and interactive visual interface
+
+---
+
+## 📊 Dashboard
+
+You can explore the interactive dashboard here:
+
+🔗 https://public.tableau.com/views/dashboardpdf1/ELECTRICVEHICLEANALYTICDASHBOARD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+---
+
+## 🛠 Technologies Used
+
+* **Tableau** – Data visualization and dashboard creation
+* **Data Analytics** – EV charge and range analysis
+* **Interactive Storytelling** – Data explanation through visual stories
+
+---
+
+## 📈 Use Cases
+
+* Understanding EV charging behavior
+* Analyzing driving range patterns
+* Exploring EV adoption trends
+* Supporting research in electric mobility
+
+---
+
+## 👩‍💻 Author
+
+**Taniya Sumbul**
+
+This project demonstrates the use of **data visualization techniques to analyze electric vehicle performance and charging patterns.**
+
