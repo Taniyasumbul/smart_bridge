@@ -17,13 +17,6 @@ The tool helps users explore EV data visually and identify patterns that can sup
 * Data-driven approach to understand **electric vehicle performance**
 * Simple and interactive visual interface
 
----
-
-## 📊 Dashboard
-
-You can explore the interactive dashboard here:
-
-🔗 https://public.tableau.com/views/dashboardpdf1/ELECTRICVEHICLEANALYTICDASHBOARD?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ---
 
